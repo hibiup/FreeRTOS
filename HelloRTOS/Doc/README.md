@@ -5,6 +5,14 @@
     * Device -> Startup
 
 
+# 项目结构
+    /User
+    /Doc
+    /FreeRTOS/Source/include
+    /FreeRTOS/Source/portable/RVDS
+    /RTE
+    
+    
 # 添加依赖:
   * 将 FreeRTOSv9.0.0\FreeRTOS\Source\include 下的文件拷贝到 FreeRTOS\Source\include 下
   * 将 FreeRTOSv9.0.0\FreeRTOS\Source\portable\RVDS\ARM_CM3 下文件拷贝到 FreeRTOS\Source\portable\RVDS\ARM_CM3 下
