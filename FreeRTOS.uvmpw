@@ -8,13 +8,17 @@
   <WorkspaceName>WorkSpace</WorkspaceName>
 
   <project>
+    <PathAndName>.\HelloRTOS\HelloRTOS.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+  </project>
+
+  <project>
     <PathAndName>.\FreeRTOS\MD5Project\FreeRTOS.uvprojx</PathAndName>
     <NodeIsExpanded>1</NodeIsExpanded>
   </project>
 
   <project>
     <PathAndName>.\Led\MD5Project\Led.uvprojx</PathAndName>
-    <NodeIsActive>1</NodeIsActive>
     <NodeIsExpanded>1</NodeIsExpanded>
   </project>
 
