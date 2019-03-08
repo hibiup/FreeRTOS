@@ -19,7 +19,7 @@
   * 设置 Project -> Option... -> C/C++ -> Include paths，将以上两个目录加入列表.
 
 
-# 新建 FreeRTOSConfig.h
+# 在 FreeRTOS\Source\include 下新建 FreeRTOSConfig.h
 
     #ifndef FREERTOS_CONFIG_H
     #define FREERTOS_CONFIG_H
@@ -57,7 +57,7 @@
     #endif /* FREERTOS_CONFIG_H */
 
 
-# 新建 main.c
+# 在 User 下新建 main.c
 
     #include<FreeRTOS.h>
     ...
