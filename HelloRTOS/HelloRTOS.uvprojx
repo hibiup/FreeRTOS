@@ -400,6 +400,16 @@
           </Files>
         </Group>
         <Group>
+          <GroupName>Doc</GroupName>
+          <Files>
+            <File>
+              <FileName>README.md</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Doc\README.md</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
           <GroupName>::CMSIS</GroupName>
         </Group>
         <Group>
